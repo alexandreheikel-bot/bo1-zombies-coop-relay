@@ -334,3 +334,4 @@ cartão avisa. O seu próprio relay também é grátis, leva uns 5 minutos e a c
 
 Os seus links de convite já levam o relay junto: os amigos só clicam em **Usar este relay** no cartão deles.
 Pelo terminal: veja os comandos na seção em inglês, acima.
+My personal BO1 Zombies relay.
